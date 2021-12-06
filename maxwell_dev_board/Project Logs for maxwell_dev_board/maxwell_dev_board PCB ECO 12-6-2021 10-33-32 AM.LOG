@@ -1,0 +1,10 @@
+Added Component: Designator=TP1(TEST_PIN)
+Added Component: Designator=TP2(TEST_PIN)
+Added Component: Designator=TP3(TEST_PIN)
+Added Component: Designator=TP4(TEST_PIN)
+Added Component: Designator=TP7(TEST_PIN)
+Added Pin To Net: NetName=GND Pin=TP1-1
+Added Pin To Net: NetName=3v3 Pin=TP2-1
+Added Pin To Net: NetName=SWDCLK Pin=TP3-1
+Added Pin To Net: NetName=SWDIO Pin=TP4-1
+Added Pin To Net: NetName=3v3_SHDN Pin=TP7-1

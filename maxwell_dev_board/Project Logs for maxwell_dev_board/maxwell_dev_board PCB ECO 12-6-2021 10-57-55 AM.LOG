@@ -1,0 +1,5 @@
+Added Component: Designator=J1(4_PIN_HEADER)
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=3v3 Pin=J1-2
+Added Pin To Net: NetName=SWDCLK Pin=J1-3
+Added Pin To Net: NetName=SWDIO Pin=J1-4
